@@ -1,1 +1,1 @@
-First Commit
+Initial data norms documentation
